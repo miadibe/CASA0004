@@ -1,4 +1,4 @@
-# AI in the AEC Industry: Combining Site Imagery and BIM for A Deep Learning Application to Construction Project Monitoring
+# AI in the AEC Industry: Combining Site Imagery and BIM for A Deep Learning Application to Project Monitoring
 
 This repository contains the code used in the dissertation for the MSc Smart Cities & Urban Analytics at the Bartlett CASA, UCL. 
 1. Image Classification using Fastai to build a floor classifier
